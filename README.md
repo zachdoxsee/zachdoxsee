@@ -26,7 +26,20 @@ The code for client projects is private. Each one is live, with a write-up on [z
 
 ## Stack
 
-Next.js, React, TypeScript, Tailwind CSS, Supabase, Postgres, Stripe, Twilio, Resend, Vercel. GSAP, Motion and three.js for animation and 3D. Vitest and Playwright for tests.
+```
++------------------- [ STACK ] --------------------+
+|                                                  |
+| Frontend  Next.js, React, TypeScript, Tailwind   |
+| Data      Supabase, Postgres                     |
+| Payments  Stripe                                 |
+| Messages  Twilio, Resend                         |
+| Motion    GSAP, Motion, Lenis                    |
+| 3D        three.js, Blender (Python)             |
+| Tests     Vitest, Playwright                     |
+| Hosting   Vercel                                 |
+|                                                  |
++--------------------------------------------------+
+```
 
 ## Contact
 
