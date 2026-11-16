@@ -1,6 +1,8 @@
 # Zach Doxsee
 
-I build websites and back-office software for small businesses and artists: storefronts and checkout, booking, crew scheduling, client portals. Most of it is Next.js on Supabase, Stripe and Vercel.
+Web Development, Marketing & MGMT
+
+Client code stays private. Write-ups of that work are at [zachdoxsee.com](https://zachdoxsee.com).
 
 ## Public projects
 
@@ -9,8 +11,6 @@ I build websites and back-office software for small businesses and artists: stor
 - **[ppf-configurator-demo](https://github.com/zachdoxsee/ppf-configurator-demo)** is a paint-protection-film configurator for an automotive booking portal. Customers pick a body style and a package, then change coverage panel by panel across four SVG views.
 
 ## Client work
-
-The code for client projects is private. Each one is live, with a write-up on [zachdoxsee.com](https://zachdoxsee.com).
 
 | Project | What I built | Live | Write-up |
 |---|---|---|---|
