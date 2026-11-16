@@ -26,20 +26,7 @@ Client code stays private. Write-ups of that work are at [zachdoxsee.com](https:
 
 ## Stack
 
-```
-+------------------- [ STACK ] --------------------+
-|                                                  |
-| Frontend  Next.js, React, TypeScript, Tailwind   |
-| Data      Supabase, Postgres                     |
-| Payments  Stripe                                 |
-| Messages  Twilio, Resend                         |
-| Motion    GSAP, Motion, Lenis                    |
-| 3D        three.js, Blender (Python)             |
-| Tests     Vitest, Playwright                     |
-| Hosting   Vercel                                 |
-|                                                  |
-+--------------------------------------------------+
-```
+Next.js, React, TypeScript, Tailwind CSS, Supabase, Postgres, Stripe, Twilio, Resend, Vercel. GSAP, Motion and three.js. Vitest + Playwright.
 
 ## Contact
 
